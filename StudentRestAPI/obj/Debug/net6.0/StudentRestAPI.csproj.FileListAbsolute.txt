@@ -1,0 +1,76 @@
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\appsettings.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.exe
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.deps.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.runtimeconfig.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.pdb
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.AssemblyReference.cache
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.AssemblyInfoInputs.cache
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.AssemblyInfo.cs
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.CoreCompileInputs.cache
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.StudentRestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentRestAPI.props
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentRestAPI.props
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentRestAPI.props
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\scopedcss\bundle\StudentRestAPI.styles.css
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.CopyComplete
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\refint\StudentRestAPI.dll
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.pdb
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.genruntimeconfig.cache
+D:\sw\c#_code\order_254037997\StudentRestAPI\StudentRestAPI\obj\Debug\net6.0\ref\StudentRestAPI.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.exe
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.deps.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.runtimeconfig.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\StudentRestAPI.pdb
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.AssemblyReference.cache
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.AssemblyInfoInputs.cache
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.AssemblyInfo.cs
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.StudentRestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentRestAPI.props
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentRestAPI.props
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentRestAPI.props
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\scopedcss\bundle\StudentRestAPI.styles.css
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.csproj.CopyComplete
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\refint\StudentRestAPI.dll
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.pdb
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\StudentRestAPI.genruntimeconfig.cache
+C:\Users\trang\Downloads\full code\StudentRestAPI\obj\Debug\net6.0\ref\StudentRestAPI.dll

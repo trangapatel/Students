@@ -1,0 +1,14 @@
+<h1 style="text-align: center">Students</h1>
+
+<kendo-grid [kendoGridBinding]="students"
+[filterable]="true"
+>
+  <kendo-grid-column field="name" title="Name"> </kendo-grid-column>
+  <kendo-grid-column field="age" title="Age"> </kendo-grid-column>
+  <kendo-grid-column field="hobbies" title="Hobbies" > </kendo-grid-column>
+ 
+</kendo-grid>
+
+
+
+<router-outlet></router-outlet>
